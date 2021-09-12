@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:facebook_audience_network/constants.dart';
+import 'package:fb_audience_network/constants.dart';
 
 enum InterstitialAdResult {
   /// Interstitial Ad displayed to the user

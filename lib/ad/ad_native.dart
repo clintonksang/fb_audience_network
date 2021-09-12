@@ -4,7 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'package:facebook_audience_network/constants.dart';
+import 'package:fb_audience_network/constants.dart';
 
 enum NativeAdType {
   /// Customizable Native Ad.
